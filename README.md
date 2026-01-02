@@ -1,4 +1,4 @@
-# 🩺 Radiology Report Generation & English-to-Hindi Translation
+# 🩺 Radiology Report Generation & English-to-Hindi NMT
 
 This repository presents an end-to-end deep learning pipeline that automates **radiology report generation** from medical images and translates the generated reports from **English to Hindi** using a **Transformer-based Neural Machine Translation (NMT)** model.
 
